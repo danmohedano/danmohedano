@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danmohedano&style=flat&color=brightgreen&style=for-the-badge)
 
-I'm a Bachelor's degree student in Computer Engineering at UAM, developing my thesis in Quantum-Enhanced Machine Learning algorithms.
+I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms.
 
 I'm currently working at [TheBasementLab](https://www.thebasement.io/)
 
