@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danmohedano&style=flat&color=brightgreen&style=for-the-badge)
 
-I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms.
+I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms. The resulting Python library can be found [here](https://github.com/danmohedano/scikit-qlearn).
 
-I'm currently working at [TheBasementLab](https://www.thebasement.io/)
+I'm currently working at [TheBasementLab](https://www.thebasement.io/) and enrolled in a Double Master's in Computer Engineering and Cybersecurity at UC3M.
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmohedano&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
