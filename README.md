@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms. The resulting Python library can be found [here](https://github.com/danmohedano/scikit-qlearn).
 
-I'm currently working at [TheBasementLab](https://www.thebasement.io/) and enrolled in a Double Master's in Computer Engineering and Cybersecurity at UC3M.
+I'm currently enrolled in a Double Master's in Computer Engineering and Cybersecurity at UC3M. I am also Vice-president and member of the SW team at [STAR UC3M](https://www.staruc3m.com/), a student rocketry association.
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmohedano&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
