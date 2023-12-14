@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danmohedano&style=flat&color=brightgreen&style=for-the-badge)
 
-I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms. The resulting Python library can be found [here](https://github.com/danmohedano/scikit-qlearn)!.
+I'm a Computer Engineer graduated from UAM. I developed my thesis on the subject of Quantum-Enhanced Machine Learning algorithms. The resulting Python library can be found [here](https://github.com/danmohedano/scikit-qlearn)!
 
 I'm currently enrolled in a Master's in Computer Engineering at UC3M, where I serve as a Research Assistant (RA) for [GREMA](https://grema.webs.tsc.uc3m.es/research/computational-electromagnetics/) working on Computational Electromagnetics with Julia and Fortran. 
 
