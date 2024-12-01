@@ -1,1 +1,1 @@
-Refer to my [merged account](github.com/daniel-mohedano)
+Refer to my [merged account](https://github.com/daniel-mohedano)
